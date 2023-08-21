@@ -14,7 +14,7 @@ def rule(site):
     s = """Rule {{
     Matches {{
         Site("|{0}|"),
-        Url("post"),
+        Url("post")
     }}
 }};""".format(
         site
