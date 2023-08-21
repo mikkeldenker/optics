@@ -4,6089 +4,6089 @@ DiscardNonMatching;
 Rule {
     Matches {
         Site("|lemmy.world|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.ml|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|feddit.de|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|sh.itjust.works|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.one|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmynsfw.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.ca|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.fmhy.ml|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemm.ee|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.blahaj.zone|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.dbzer0.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmygrad.ml|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|programming.dev|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|sopuli.xyz|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|discuss.tchncs.de|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.sdf.org|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|vlemmy.net|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|aussie.zone|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|feddit.uk|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|startrek.website|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|dormi.zone|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|feddit.it|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|infosec.pub|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|pawb.social|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|feddit.nl|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.burger.rodeo|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|burggit.moe|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|slrpnk.net|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|feddit.dk|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.nz|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|mander.xyz|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|feddit.cl|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|reddthat.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.zip|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|latte.isnot.coffee|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|szmer.info|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|dataterm.digital|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|exploding-heads.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|pathofexile-discuss.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|monyet.cc|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|iusearchlinux.fyi|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|yiffit.net|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|sub.wetshaving.social|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|geddit.social|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmyrs.org|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|monero.town|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|partizle.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|mtgzone.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|toast.ooo|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.studio|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.click|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.film|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.radio|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|fanaticus.social|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|rammy.site|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.villa-straylight.social|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.whynotdrs.org|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|ttrpg.network|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.antemeridiem.xyz|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|r-sauna.fi|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.cafe|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|ash1-lem-i1-u4829.vm.elestio.app|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|discuss.online|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|thegarden.land|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.spacestation14.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|bookwormstory.social|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.eus|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|forum.basedcount.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|possumpat.io|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.wtf|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|thelemmy.club|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.perthchat.org|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|compuverse.uk|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|preserve.games|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.tf|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|dmv.social|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.eco.br|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|social.fossware.space|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.podycust.co.uk|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|diggit.xyz|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|feddit.ch|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|picify.podycust.co.uk|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|feddit.nu|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|bolha.social|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.ko4abp.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lib.lgbt|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.kya.moe|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|terefere.eu|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmyfly.org|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|sffa.community|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.picote.ch|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|feddit.ro|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|apollo.town|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|tucson.social|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|aiparadise.moe|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|seemel.ink|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|eslemmy.es|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|poptalk.scrubbles.tech|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.justin.rs|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|booty.world|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.srv.eco|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|group.lt|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemdit.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|news.cosocial.ca|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|wirebase.org|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|crystals.rest|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|suppo.fi|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.blugatch.tube|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|baomi.tv|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|links.dartboard.social|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.ptznetwork.org|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|notdigg.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|cubing.social|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|fadoverso.pt|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|dubvee.org|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|digipres.cafe|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|fig.systems|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmyunchained.net|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.easfrq.live|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.bulwarkob.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|links.rebel.ar|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.juggler.jp|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lm.bittervets.org|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|yall.theatl.social|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.suchmeme.nl|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|derpzilla.net|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.nexus|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.onlylans.io|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lm.korako.me|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.rollenspiel.monster|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|wayfarershaven.eu|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|outpost.zeuslink.net|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.graz.social|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|bbs.darkwitch.net|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.4d2.org|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|baraza.africa|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.loomy.li|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|centennialstate.social|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|weiner.zone|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|bbs.9tail.net|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|voxpop.social|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.funami.tech|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|skein.city|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|quex.cc|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|dot.surf|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.today|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.reckless.dev|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|feddit.pontual.social|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|federated.community|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|mindshare.space|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.cock.social|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.pro|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|frig.social|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.kemomimi.fans|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|mylem.my|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|goddess.name|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|tagpro.lol|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.jamesj999.co.uk|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|prime8s.xyz|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|oceanbreeze.earth|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.roombob.cat|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|eviltoast.org|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|sub.rdls.dev|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|feddit.jp|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|keeb.lol|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.stuart.fun|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.darmstadt.social|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.einval.net|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.themainframe.org|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lm.madiator.cloud|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|posta.no|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|wizanons.dev|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|databend.run|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|tabletop.place|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.wiuf.net|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.dormedas.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.jpiolho.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|linkopath.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|coeus.sbs|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.avata.social|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|whiskers.bim.boats|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.media|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.g97.top|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|darmok.xyz|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|keylog.zip|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.iys.io|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lem.monster|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|normalcity.life|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lolimbeer.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|bulletintree.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.tebro.fi|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|no.lastname.nz|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|sowhois.gay|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.starlightkel.xyz|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.ninja|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmywinks.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.vanoverloop.xyz|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|foros.fediverso.gal|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.coeus.icu|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.place|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.wizjenkins.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|social.dn42.us|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|l.roofo.cc|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|voltage.vn|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.piperservers.net|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|feddit.nz|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|feditown.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.pathoris.de|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.run|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.krobier.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lm.put.tf|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|livy.one|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|moot.place|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.my.id|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.loungerat.io|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|feddi.no|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|social.doudp.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.alexland.ca|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|shork.online|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmyfi.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|laguna.chat|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.marud.fr|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|communick.news|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|narod.city|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|links.hackliberty.org|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.rat.academy|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.jigoku.us.to|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.linuxuserspace.show|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|orava.dev|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|forum.liberatedsystems.co.uk|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|sha1.nl|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|tslemmy.duckdns.org|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|moto.teamswollen.org|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|dgngrnder.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.minji.xyz|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|social.sour.is|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.burningboard.net|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|nlemmy.nl|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.bunbi.net|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|fenbushi.site|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lef.li|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lm.inu.is|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|iboughtthisdomainbecauseithoughtitscheap.uk|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.ppl.town|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|1337lemmy.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lsmu.schmurian.xyz|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|stanx.page|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|melly.0x-ia.moe|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.mildgrim.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.elmusfire.xyz|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|wallstreets.bet|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lem.lyk.pw|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.jtmn.dev|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.nilskrau.de|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.zroot.org|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|philly.page|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|s.jape.work|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.pipipopo.pl|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lm.qtt.no|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.eic.lu|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|dendarii.alaeron.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|civilloquy.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|parapheum.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.sbs|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|federated.ninja|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.scam-mail.me|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.cablepick.net|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.gtfo.social|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|ripo.st|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.xoynq.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.norbz.org|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.snoot.tube|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.skillissue.dk|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.jamestrey.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|insane.dev|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.nrd.li|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.intai.tech|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|thechurchofmemes.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.plasmatrap.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.1204.org|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.remotelab.uk|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|invariant-marxism.red|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|red.cyberhase.de|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.scottlabs.io|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.gamingnight.uy|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|www.jrz.city|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.nerdcore.social|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|bluuit.org|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.funkyfish.cool|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.trippy.pizza|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|techy.news|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.fromshado.ws|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.comfysnug.space|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|zemmy.cc|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lululemmy.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.timdn.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.sascamooch.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|labdegato.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.quad442.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.nerdcruft.net|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|proit.org|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmonade.marbledfennec.net|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.lukeog.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.tillicumnet.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|anarch.is|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|clatter.eu|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.staphup.nl|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.direktoratet.se|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|fedibb.ml|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|kek.henlo.fi|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|nrsk.no|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.emopolarbear.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|caint.org|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|social.hamington.net|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.glasgow.social|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.mlsn.fr|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lm.halfassmart.net|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.calvss.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|bigfoot.ninja|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.pipe01.net|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.jmtr.org|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|fedit.io|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|links.lowsec.club|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.pussthecat.org|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.link|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.notdead.net|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|hakbox.social|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.arclight.pro|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|mobilemmohub.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|hammerdown.0fucks.nl|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|chat.maiion.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lm.melonbread.dev|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.astheriver.art|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.havocperil.uk|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.douwes.co.uk|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lem.serkozh.me|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|le.fduck.net|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.simpl.website|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.mazurka.xyz|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.lpcha.im|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.isamp.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.shwizard.chat|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.nerdcave.us|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|feddit.fun|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|hqueue.dev|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmony.click|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lucitt.social|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|feddit.win|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.beru.co|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lm.gsk.moe|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|animoe.xyz|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.temporus.me|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.thanatos.at|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.philipcristiano.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.l00p.org|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.vrchat-dev.tech|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|endofti.me|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|werm.social|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.fbxl.net|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|hoodlem.me|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|fanexus.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.morrisherd.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|r.rosettast0ned.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.mbl.social|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|cnvrs.net|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.dominikoso.me|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|local106.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemthony.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.dupper.net|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|le.mnau.xyz|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.wraithsquadrongaming.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.weiser.social|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|spgrn.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|zerobytes.monster|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|c.calciumlabs.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.tancomps.net|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|demmy.co.uk|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.doomeer.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.steken.xyz|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.fwgx.uk|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|014450.xyz|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.pub|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.fauxreigner.net|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.fribyte.no|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.weckhorst.no|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.songsforno.one|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.chiisana.net|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|nunu.dev|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.dyslexicjedi.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.deadca.de|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy2.addictmud.org|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmywinks.xyz|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.thepixelproject.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.pcft.eu|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|social.poisson.me|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.stellarvortex.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.mywire.xyz|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|greg.city|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.calebmharper.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.gregw.us|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.nope.ly|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmus.org|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.amyjnobody.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|mesita.link|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|localghost.org|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|acqrs.co.uk|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.x3i.tech|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.kagura.eu|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmit.xyz|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmit.online|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lm.rdbt.no|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.meli.dev|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|algebro.xyz|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.timwaterhouse.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.kiberness.xyz|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|toons.zone|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|orzen.games|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.webgirand.eu|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.moonling.nl|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmyonline.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmyland.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|tortoisewrath.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|mlem.a-smol-cat.fr|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.comm.social|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|jamie.moe|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.fakecake.org|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|snkkis.me|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lm.byteme.social|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.gross.hosting|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.tarsis.org|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.javant.xyz|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|feddit.strike23.de|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|solstice.etbr.top|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|0v0.social|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.self-hosted.site|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|mcr.town|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.srv0.lol|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|popplesburger.hilciferous.nl|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.lif.ovh|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.recursed.net|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.kghorvath.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.devils.house|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|versalife.duckdns.org|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|upvote.au|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|social.cyb3r.dog|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.0x3d.uk|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|rustyshackleford.cfd|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.dustybeer.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.onitato.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.skl.works|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.selfip.org|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|endlesstalk.org|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lmy.drundo.com.au|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.eatsleepcode.ca|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmings.online|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|thegarden-u4873.vm.elestio.app|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|jemmy.jeena.net|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|sedd.it|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.6px.eu|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lm.williampuckering.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.pe1uca.dev|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.cornspace.space|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|occult.social|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|kleptonix.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|negativenull.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.dnet.social|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|drachennetz.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.littlejth.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|moose.best|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|digitalgoblin.uk|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.the-goblin.net|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.pryst.de|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|re.tei.li|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|links.decafbad.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.hamrick.xyz|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|netmonkey.tech|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.sh|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.kizaing.ca|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.sumuun.net|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.monster|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.timon.sh|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|thaumatur.ge|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|xrs.cx|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|community.nicfab.it|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.escapebigtech.info|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmyverse.org|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.thesmokinglounge.club|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.stark-enterprise.net|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|shitposting.monster|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|kale.social|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.schmeisserweb.at|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|leby.dev|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.munsell.io|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.mlaga97.space|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.pastwind.top|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|mylemmy.win|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.management|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.proxmox-lab.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.livesound.world|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.leafylibrary.uk|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.schlunker.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.nopro.be|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.haigner.me|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|l.biendeo.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.sebbem.se|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.austinwadeheller.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.graphics|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.helvetet.eu|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.beckmeyer.us|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|leddit.minnal.icu|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|radiation.party|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.seifert.id|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|fjdk.uk|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.fail|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.tr00st.co.uk|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.jacaranda.club|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.website|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.xce.pt|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|hc.frorayz.tech|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.vinodjam.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|jalim.xyz|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|xffxe4.lol|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|granitestate.social|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|nc.gnzl.cl|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.zell-mbc.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.uhhoh.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.jasonsanta.xyz|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|social.ggbox.fr|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|l.bxy.sh|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|ascy.mooo.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|leaf.dance|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.lucaslower.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.fdvrs.xyz|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|l.jugregator.org|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.cloudhub.social|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|omg.qa|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|areality.social|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.gareth.computer|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|matts.digital|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.commodore.social|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|forkk.me|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.chromozone.dev|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|community.adiquaints.moe|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|discuss.dizl.de|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.pit.ninja|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|bubblesthebunny.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.clueware.org|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.mb-server.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|feedly.j-cloud.uk|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.socdojo.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.serverfail.party|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|libreauto.app|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|actuallyruben.nl|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|typemi.me|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.helios42.de|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lmmy.tvdl.dev|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|rabbitea.rs|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.k6qw.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.borlax.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|psychedelia.ink|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.stormlight.space|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.dudeami.win|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|social.vmdk.ca|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.benrasich.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.pineapplemachine.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|www.korzekwa.io|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.gjz010.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|biglemmowski.win|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lem.cochrun.xyz|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.austinite.online|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|abstract-scones.crabdance.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lem.southcape.social|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lem.simple-gear.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|meganice.online|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.bringdaruck.us|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmypets.xyz|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.fediverse.jp|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|reddrefuge.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lem.elbullazul.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|femboys.bar|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmerz.org|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmydeals.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmybedan.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.fyi|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.davidfreina.at|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|distress.digital|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.cook.gg|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.koski.co|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.dcrich.net|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|selfhosted.forum|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.mixdown.ca|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.wxbu.de|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.dekay.se|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|links.wageoffsite.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.jpaulus.io|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|links.roobre.es|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|notlemmy.notawebsite.fr|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|hive.atlanten.se|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemitar.meta1203.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|thediscussion.site|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.amxl.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|syrma.cc|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.virtim.dev|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|l.twos.dev|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.s9m.xyz|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.sysctl.io|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.vepta.org|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.bradis.me|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|eventfrontier.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.jlh.name|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|l.nulltext.org|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.dork.lol|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|pwzle.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|linkage.ds8.zone|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.aucubin.de|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.w9r.de|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.belclayfer.net|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.zone|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.nauk.io|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|silicon-dragon.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.loutsenhizer.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.vyizis.tech|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.lylapol.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|shinobu.cloud|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|tezzo.f0rk.pl|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.game-files.net|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|link.fossdle.org|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|gonelemmy.xyz|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|wilbo.tech|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|l.plabs.social|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|beer.andma.la|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.demonoftheday.eu|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.pwzle.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.zelinsky.dev|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.mira.pm|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|heckoverflow.net|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lme.smn.sh|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|culture0.cc|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.anonion.social|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.saik0.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.thias.xyz|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.elest.io|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|whata.clusterfsck.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|aulem.org|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|l.vidja.social|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lmmy.net|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.thetaits.net|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|wumbo.buzz|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.uncomfortable.business|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|snuv.win|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.keychat.org|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.best|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy-u3.vm.elestio.app|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|hyperfair.link|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.aguiarvieira.pt|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.itermori.de|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.pierre-couy.fr|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|cigar.cx|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.help|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.grygon.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.tanktrace.de|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lm.electrospek.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.matthe815.dev|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.bloodmoon-network.de|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lm.paradisus.day|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|fed.rosssi.co.uk|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.atheos.org|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|thesidewalkends.io|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|androiddev.network|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy-ujt-u4842.vm.elestio.app|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|leddit.social|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lm.kalinowski.dev|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.johnpanos.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.kitsuna.net|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|thesimplecorner.org|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.knocknet.net|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.davidbuckley.ca|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.coupou.fr|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.syrasu.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.umainfo.live|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.rimkus.it|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lem.free.as|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|discuss.ntfy.sh|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.pec0ra.ch|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.foxden.party|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.sprawl.club|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.iswhereits.at|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|butts.international|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lmmy.io|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.schuerz.at|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|pasta.faith|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|rational-racoon.de|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.obrell.se|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.gmprojects.pro|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.ubergeek77.chat|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.helheim.net|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmit-u4849.vm.elestio.app|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|sambaspy.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|theotter.social|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.sweevo.net|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.ch3n2k.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.secnd.me|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|ani.social|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|stammtisch.hallertau.social|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|discuss.jacen.moe|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.korgen.xyz|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|donky.social|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|retarded.dev|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lostcheese.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.maples.dev|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.2kd.de|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|neodrain.net|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.beebl.es|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.frozeninferno.xyz|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|support-futbol-u4947.vm.elestio.app|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|support.futbol|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|social.nerdhouse.io|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.cnschn.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lm.runnerd.net|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.friheter.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.hosted.frl|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|drak.gg|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lm.suitwaffle.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|cavy.rocks|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.smoothbrain.org|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.scav1.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.perigrine.ca|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.mrm.one|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.belegost.net|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.andiru.de|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|iceorchid.net|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|einweckglas.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.edgarchirivella.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.karaolidis.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.brief.guru|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lm.curlefry.net|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.nikore.net|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.telaax.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.sedimentarymountains.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.azamserver.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.mooo.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|l.1in1.net|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.unfiltered.social|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.modshiftx.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.theonecurly.page|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.mutation.observer|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.sietch.online|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.meridiangrp.co.uk|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|feddit.tech|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.mambastretch.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.fedihub.social|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|feddit.pl|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.l0nax.org|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.freewilltiger.page|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.techstache.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.qpixel.pw|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.pen15.club|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.safe-internet.org|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.tario.org|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.mats.ooo|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemnt.telaax.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|glasstower.nl|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|p9.wtf|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.tobyvin.dev|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.soontm.de|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.appeine.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.ghostplanet.org|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.hpost.no|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.lettucegarden.net|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|drlemmy.net|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|badblocks.rocks|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|scif6.nsalanparty.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|notlemmy.site|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.cultimean.group|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.fucs.io|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.batlord.org|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.croc.pw|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|fedi.shadowtoot.world|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.deev.io|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lmmy.ylwsgn.cc|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.mayes.io|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|skwerl.dev|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|le-me.xyz|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.mxh.nu|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.pxm.nl|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|nwdr.club|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|discuss.as200950.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.whalesinspace.de|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.vskr.net|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.shattervideoisland.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|opendmz.social|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.corrigan.xyz|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.nathaneaston.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.productionservers.net|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.r6e.dev|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|0xdd.org.ru|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.root6.de|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.dlgreen.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.fun|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.freddeliv.me|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.therhys.co.uk|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|thepride.hexodine.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|talka.live|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.m1k.cloud|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|social.fr4me.io|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.fredhs.net|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.rhymelikedi.me|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|feddit.at|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|purrito.kamartaj.xyz|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|bethe.kingofdog.de|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.kodeklang.social|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|dsilo061298.ddns.net|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|nonewfriends.club|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|soccer.forum|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.wyattsmith.org|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|liminal.southfox.me|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.brad.ee|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.mypinghertz.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.gsp8181.co.uk|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|surlesworld.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmyis.fun|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lm.sethp.cc|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.datatekniker.dev|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.arun.cloud|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.barnacles.one|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.macaddict89.me|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.holmosapien.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|feddit.site|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|mayheminc.win|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lem.zevs.me|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.toot.pt|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.finance|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.halfbro.xyz|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|rlyeh.cc|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.services.coupou.fr|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|ue.reddiverse.umbraluvine.xyz|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|mh.znark.us|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|gertie.uk|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.naga.sh|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.mpcjanssen.nl|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.neeley.cloud|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|overctrl.dbzer0.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.sarcasticdeveloper.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|l.mathers.fr|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.rubenernst.dev|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.dogboy.xyz|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.jasondove.me|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.eldarerathis.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.enchanted.social|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|sublight.one|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|botnet.club|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.meissners.me|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.albertoluna.es|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.zkr.io|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|readit.space|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.ravc.tech|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.scurry.io|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|anime-pub.moe|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.buller.cc|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lmy.dotcomitsa.website|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.namwen.me|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.funkylab.xyz|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmygrid.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|mlemmy.de|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.flugratte.dev|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|feddit.eu|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|pootusmaximus.xyz|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.fap.ie|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.hellwhore.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
 
 Rule {
     Matches {
         Site("|lemmy.austinvaness.com|"),
-        Ulr("post"),
+        Url("post"),
     }
 };
