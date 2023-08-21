@@ -13,7 +13,8 @@ sites = [url.split("//")[1].split("/")[0] for url in urls]
 def rule(site):
     s = """Rule {{
     Matches {{
-        Site("|{0}|")
+        Site("|{0}|"),
+        Ulr("post"),
     }}
 }};""".format(
         site
